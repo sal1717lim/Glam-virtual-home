@@ -9,7 +9,7 @@ peft==0.2.0
 transformers>=4.28.0
 gradio
 sentencepiece
-gym==0.21.0
+gym==0.22.0
 ipdb
 tensorboard
 scipy
